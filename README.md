@@ -21,4 +21,4 @@ For either option, it is important that you verify you can get to and use a Kube
 "helm version"
 
 After setting up the environment, follow the pre-req steps at the bottom of the document under "Startup - to do before first lab" to be ready for the workshop.
-![image](https://user-images.githubusercontent.com/2282248/162748846-0ffa8c9e-d244-4613-a275-0414e94f6ae2.png)
+
